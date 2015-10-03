@@ -1,0 +1,22 @@
+{
+  "name": "projectB",
+  "version": "0.0.3-3",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rpaggi",
+  "window": {
+    "title": "projectB",
+    "toolbar": false,
+    "frame": false,
+    "width": 1280,
+    "height": 800,
+    "min_width": 1280,
+    "min_height": 800,
+    "max_width": 1280,
+    "max_height": 800,
+    "resizable": false
+  }
+}
